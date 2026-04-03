@@ -4,7 +4,7 @@ A data-science assessment project built around the **Global Weather Repository**
 
 ---
 
-### PM Accelerator mission (submission)
+### PM Accelerator mission 
 **Our Mission:** By making industry-leading tools and education available to individuals from all 
 backgrounds, we level the playing field for future PM leaders. This is the PM Accelerator motto: we 
 grant aspiring and experienced PMs what they need most — **Access**. We introduce you to industry 
@@ -68,21 +68,7 @@ Use **Run → Run All Cells**. To share a static report, export the notebook as 
 
 ## PM Accelerator (assessment)
 
-This project was prepared for the **PM Accelerator** technical assessment. The notebook opens with the program mission:
-
-> By making industry-leading tools and education available to individuals from all backgrounds, we level the playing field for future PM leaders. This is the PM Accelerator motto: we grant aspiring and experienced PMs what they need most — **Access**. We introduce you to industry leaders, surround you with the right PM ecosystem, and discover the new world of **AI product management** skills.
-
+This project was prepared for the **PM Accelerator** technical assessment.
 **Website:** [pmaccelerator.io](https://www.pmaccelerator.io/)
 
 ---
-
-## Submission notes
-
-For evaluators: keep the repository **public** or grant access to **`community@pmaccelerator.io`** and **`hr@pmaccelerator.io`** as required. Include this README, `requirements.txt`, and the `.ipynb`.
-
----
-
-## License & data
-
-- **Code in this repository:** provided for assessment / portfolio use unless you add your own license.  
-- **Dataset:** subject to the [Kaggle dataset terms](https://www.kaggle.com/datasets/nelgiriyewithana/global-weather-repository); cite Kaggle and the dataset author when redistributing or publishing results.  
